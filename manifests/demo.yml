@@ -20,6 +20,7 @@ metadata:
     app: spinnaker
 spec:
   replicas: 3
+  revisionHistoryLimit: 3
   selector:
     matchLabels:
       source: demo
