@@ -5,7 +5,8 @@ metadata:
   namespace: default
 data:
   NEW_FEATURE: "true"
-  OLD_FEATURE: "false"
+  OLD_FEATURE: "true"
+  BLAH: "yeah"
 
 ---
 
