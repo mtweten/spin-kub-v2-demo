@@ -20,6 +20,7 @@ metadata:
     stack: frontend
     app: spinnaker
 spec:
+  paused: true
   replicas: 3
   revisionHistoryLimit: 3
   selector:
